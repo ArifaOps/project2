@@ -1,0 +1,4 @@
+we can create a file in three ways.they are:
+1)by using touch space file name
+2)by using cat > file name 
+3)by using vim space file name
